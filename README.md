@@ -1,8 +1,8 @@
 ## Oii! Eu sou o Victor Pádua
 
-- 🔭 Hoje trabalho com Tecnologia da Informação
-- 🌱 Estudando HTML
-- 📫 Contate-me no email: victorpadua.ti@gmail.com
+- 🔭  Hoje trabalho com Tecnologia da Informação
+- 🌱  Estudando HTML
+- 📫  Contate-me no email: victorpadua.ti@gmail.com
 
 <div align="center">
   <a href="https://github.com/victorpaduati">
