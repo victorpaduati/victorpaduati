@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Pádua  👋
 
 - 🔭  Hoje trabalho com Tecnologia da Informação
-- 🌱  Estudando HTML
+- 🌱  Estudando HTML, CSS  e  JS.
 - 📫  Contate-me no email: victorpadua.ti@gmail.com
 
 <div align="center">
