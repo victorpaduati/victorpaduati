@@ -2,7 +2,7 @@
 
 - 🔭  Hoje trabalho com Tecnologia da Informação.
 - 🌱  Estudando HTML, CSS  e  JS.
-- 📫  Contate-me no email: victorpadua.ti@gmail.com
+- 📫  E-mail profissional: victorpadua.ti@gmail.com
 
 <div align="center">
   <a href="https://github.com/victorpaduati">
