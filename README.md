@@ -1,4 +1,4 @@
-## Oii! Eu sou o Victor Pádua  👋
+## Olá! Eu sou o Victor Pádua  👋
 
 - 🔭  Hoje trabalho com Tecnologia da Informação.
 - 🌱  Estudando HTML, CSS  e  JS.
