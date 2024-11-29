@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Pádua  👋
 
 - 🔭  Hoje trabalho com Tecnologia da Informação.
-- 🌱  Estudando HTML, CSS  e  JS.
+- 🌱  Estudando JavaScript, Power BI, SQL e MySQL.
 - 📫  E-mail profissional: victorpadua.ti@gmail.com
 
 <div align="center">
